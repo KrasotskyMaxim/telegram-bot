@@ -1,0 +1,24 @@
+{
+    "intents": {
+        "hello": {
+            "examples": ["Hi", "Hello", "Good evening"],
+            "responces": ["Hi", "Hello", "Good evening"]
+        },
+        "thanks": {
+            "examples": ["Thank you", "Thanks", "Thank you very much"],
+            "responces": ["You are Welcome", "Ok", "Contact again"]
+        },
+        "goodbuy": {
+            "examples": ["Buy", "Goodbuy", "See you"],
+            "responces": ["Goodbuy", "Buy", "See you later"]
+        },
+        "good": {
+            "examples": ["Good", "Ok", "Very well"],
+            "responces": ["Very well", "Good!", "Well"]
+        },
+        "bad": {
+            "examples": ["Bad", "Very bad", "Poorly"],
+            "responces": ["Sorry", "I apologize", "Excuse me"]
+        }
+    }
+}
